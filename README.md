@@ -20,6 +20,25 @@ This project demonstrates web scraping using the Beautiful Soup library in Pytho
 
 1. Clone this repository:
 
-```bash
+
 git clone https://github.com/roshan1960701/Web-Scraping-.git
 cd your-project
+
+
+## Install required dependencies
+pip install beautifulsoup4 pymongo
+
+
+## Features
+Web scraping using Beautiful Soup.
+Data storage in MongoDB.
+Analytics scripts for data analysis.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines in CONTRIBUTING.md.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For questions or feedback, feel free to contact me at roshanw1998@gmail.com.
